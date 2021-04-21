@@ -1,5 +1,7 @@
 # Trabajo Practico Nro1
 
+Repositorio de github utilizado en este trabajo [repo](https://github.com/federicolito/ANT-TP-Nro1)
+
 ## 2- Crear un repositorio local y agregar archivos
 - iniciar un repositorio local como se muestra en la imagen.<img src="Img-1.png">
 - Creamos los dos archivos Readme y el cv como se muestra en las imagenes.<img src="Img-2.png"><img src="Img-3.png">
